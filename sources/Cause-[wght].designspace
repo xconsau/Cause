@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" name="weight" tag="wght" maximum="900" minimum="100">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="400" input="400"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Cause" stylename="Black" filename="masters/Cause-Black.ufo" name="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+  <source familyname="Cause" stylename="Regular" filename="masters/Cause-Regular.ufo" name="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source familyname="Cause" stylename="Thin" filename="masters/Cause-Thin.ufo" name="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance familyname="Cause" stylename="Thin" filename="instances/Cause-Thin.ufo" name="Thin">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="ExtraLight" filename="instances/Cause-ExtraLight.ufo" name="ExtraLight">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="Light" filename="instances/Cause-Light.ufo" name="Light">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="Regular" filename="instances/Cause-Regular.ufo" name="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="Medium" filename="instances/Cause-Medium.ufo" name="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="SemiBold" filename="instances/Cause-SemiBold.ufo" name="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="Bold" filename="instances/Cause-Bold.ufo" name="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="ExtraBold" filename="instances/Cause-ExtraBold.ufo" name="ExtraBold">
+   <location>
+    <dimension name="weight" xvalue="800"/>
+   </location>
+  </instance>
+  <instance familyname="Cause" stylename="Black" filename="instances/Cause-Black.ufo" name="Black">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
