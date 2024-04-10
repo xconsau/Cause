@@ -5,6 +5,6 @@
   <anchor x="130" y="530" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="tilde" xOffset="-87" yOffset="-200"/>
+    <component base="tildecomb" xOffset="-87" yOffset="-200"/>
   </outline>
 </glyph>

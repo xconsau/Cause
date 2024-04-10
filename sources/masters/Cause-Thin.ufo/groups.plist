@@ -236,7 +236,7 @@
     <string>ij</string>
     <string>j</string>
     <string>jcircumflex</string>
-    <string>dotlessj</string>
+    <string>uni0237</string>
   </array>
   <key>public.kern1.k</key>
   <array>
@@ -589,7 +589,7 @@
   <array>
     <string>j</string>
     <string>jcircumflex</string>
-    <string>dotlessj</string>
+    <string>uni0237</string>
   </array>
   <key>public.kern2.l</key>
   <array>

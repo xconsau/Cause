@@ -2,9 +2,9 @@
 <glyph name="Ocircumflex" format="2">
   <advance width="658"/>
   <unicode hex="00D4"/>
-  <anchor x="329" y="730" name="top"/>
+  <anchor x="331" y="730" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="circumflex" xOffset="130"/>
+    <component base="circumflex" xOffset="132"/>
   </outline>
 </glyph>

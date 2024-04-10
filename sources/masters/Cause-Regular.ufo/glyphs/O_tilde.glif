@@ -2,9 +2,9 @@
 <glyph name="Otilde" format="2">
   <advance width="658"/>
   <unicode hex="00D5"/>
-  <anchor x="329" y="730" name="top"/>
+  <anchor x="331" y="730" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="tilde" xOffset="110"/>
+    <component base="tildecomb" xOffset="112"/>
   </outline>
 </glyph>

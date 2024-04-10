@@ -2,8 +2,9 @@
 <glyph name="wgrave" format="2">
   <advance width="755"/>
   <unicode hex="1E81"/>
+  <anchor x="371" y="530" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="grave" xOffset="166" yOffset="50"/>
+    <component base="gravecomb" xOffset="176" yOffset="-200"/>
   </outline>
 </glyph>

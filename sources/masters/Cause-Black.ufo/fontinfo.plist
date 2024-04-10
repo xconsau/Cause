@@ -28,6 +28,16 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>t</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>950</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>t2</string>
     <key>x</key>
     <integer>0</integer>
@@ -64,19 +74,9 @@
     <key>y</key>
     <integer>-140</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>950</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>

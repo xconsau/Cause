@@ -7,6 +7,6 @@
   <anchor x="190" y="700" name="right"/>
   <outline>
     <component base="l"/>
-    <component base="acute" xOffset="-32.3014"/>
+    <component base="acutecomb" xOffset="-32.3014"/>
   </outline>
 </glyph>

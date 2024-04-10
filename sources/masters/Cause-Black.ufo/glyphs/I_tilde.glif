@@ -6,6 +6,6 @@
   <anchor x="225" y="730" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="tilde" xOffset="8"/>
+    <component base="tildecomb" xOffset="8"/>
   </outline>
 </glyph>

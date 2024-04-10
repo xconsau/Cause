@@ -5,6 +5,6 @@
   <anchor x="314" y="730" name="top"/>
   <outline>
     <component base="Y"/>
-    <component base="acute" xOffset="245"/>
+    <component base="acutecomb" xOffset="245"/>
   </outline>
 </glyph>
