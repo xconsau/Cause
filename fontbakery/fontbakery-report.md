@@ -2,17 +2,7 @@
 
 fontbakery version: 0.11.2
 
-<h2>Check results</h2><details><summary><b>[12] Cause[wght].ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Shapes languages in all GF glyphsets. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyphsets/shape_languages">com.google.fonts/check/glyphsets/shape_languages</a>)</summary><div>
-
-
-* 🔥 **FAIL** GF_Latin_Core glyphset:
-
-| Language | FAIL messages |
-| :--- | :--- |
-| nl_Latn (Dutch) | Shaper didn't attach acutecomb to j |
-
- [code: failed-language-shaping]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check that legacy accents aren't used in composite glyphs. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/legacy_accents">com.google.fonts/check/legacy_accents</a>)</summary><div>
+<h2>Check results</h2><details><summary><b>[12] Cause[wght].ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check that legacy accents aren't used in composite glyphs. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/legacy_accents">com.google.fonts/check/legacy_accents</a>)</summary><div>
 
 
 * 🔥 **FAIL** Legacy accent "grave" is defined in GDEF as a mark (class 3). [code: legacy-accents-gdef]
@@ -28,9 +18,7 @@ fontbakery version: 0.11.2
 * 🔥 **FAIL** Legacy accent "ogonek" is defined in GDEF as a mark (class 3). [code: legacy-accents-gdef]
 * 🔥 **FAIL** Legacy accent "tilde" is defined in GDEF as a mark (class 3). [code: legacy-accents-gdef]
 * 🔥 **FAIL** Legacy accent "hungarumlaut" is defined in GDEF as a mark (class 3). [code: legacy-accents-gdef]
-* ⚠ **WARN** Glyph "Tcedilla" has a legacy accent component  (cedilla). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "tcedilla" has a legacy accent component  (cedilla). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "gravecomb" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "acutecomb" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "circumflexcomb" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "tildecomb" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
@@ -43,56 +31,43 @@ fontbakery version: 0.11.2
 * ⚠ **WARN** Glyph "caroncomb" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "cedillacomb" has a legacy accent component  (cedilla). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ogonekcomb" has a legacy accent component  (ogonek). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Ygrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "ygrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Agrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Aacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Acircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Atilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Adieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Aring" has a legacy accent component  (ring). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ccedilla" has a legacy accent component  (cedilla). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Egrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Eacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ecircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Edieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Igrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Iacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Icircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Idieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ntilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Ograve" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Oacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ocircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Otilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Odieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Ugrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Uacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Ucircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Udieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Yacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "agrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "aacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "acircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "atilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "adieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "aring" has a legacy accent component  (ring). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ccedilla" has a legacy accent component  (cedilla). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "egrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "eacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ecircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "edieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "igrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "iacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "icircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "idieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ntilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "ograve" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "oacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ocircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "otilde" has a legacy accent component  (tilde). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "odieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "ugrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "uacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "ucircumflex" has a legacy accent component  (circumflex). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "udieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
@@ -188,8 +163,6 @@ fontbakery version: 0.11.2
 * ⚠ **WARN** Glyph "zdotaccent" has a legacy accent component  (dotaccent). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Zcaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "zcaron" has a legacy accent component  (caron). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "Wgrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
-* ⚠ **WARN** Glyph "wgrave" has a legacy accent component  (grave). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Wacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "wacute" has a legacy accent component  (acute). It needs to be replaced by a combining mark. [code: legacy-accents-component]
 * ⚠ **WARN** Glyph "Wdieresis" has a legacy accent component  (dieresis). It needs to be replaced by a combining mark. [code: legacy-accents-component]
@@ -203,17 +176,17 @@ fontbakery version: 0.11.2
     subset declarations to METADATA.pb, or by editing the glyphset
     definitions.
 
- * U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal
+ * U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh
  * U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
  * U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
  * U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
  * U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition
- * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic
+ * U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, cherokee, tifinagh, coptic
  * U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
- * U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, tifinagh, syriac, old-permic, math, coptic, malayalam, canadian-aboriginal
+ * U+0307 COMBINING DOT ABOVE: try adding one of: malayalam, tai-le, tifinagh, coptic, old-permic, canadian-aboriginal, math, syriac
  * U+030A COMBINING RING ABOVE: try adding syriac
  * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage
- * U+030C COMBINING CARON: try adding one of: cherokee, tai-le
+ * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
  * U+0326 COMBINING COMMA BELOW: not included in any glyphset definition
  * U+0327 COMBINING CEDILLA: not included in any glyphset definition
  * U+0328 COMBINING OGONEK: not included in any glyphset definition
@@ -236,7 +209,7 @@ fontbakery version: 0.11.2
  * U+2260 NOT EQUAL TO: try adding math
  * U+2264 LESS-THAN OR EQUAL TO: try adding math
  * U+2265 GREATER-THAN OR EQUAL TO: try adding math
- * U+25CA LOZENGE: try adding one of: math, symbols
+ * U+25CA LOZENGE: try adding one of: symbols, math
  * U+FB00 LATIN SMALL LIGATURE FF: not included in any glyphset definition
  * U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition
  * U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition
@@ -280,10 +253,10 @@ Or you can add the above codepoints to one of the subsets supported by the font:
 The following math glyphs have a different width, though:
 
 Width = 455:
-greater, less
+less, greater
 
 Width = 511:
-notequal, equal
+equal, notequal
 
 Width = 514:
 logicalnot
@@ -314,7 +287,12 @@ greaterequal
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 Lcaron (U+013D), acute (U+00B4), acutecomb (U+0301), breve (U+02D8), brevecomb (U+0306), caron (U+02C7), caroncomb (U+030C), cedilla (U+00B8), cedillacomb (U+0327), circumflex (U+02C6), circumflexcomb (U+0302), dcaron (U+010F), dieresis (U+00A8), dieresiscomb (U+0308), dotaccent (U+02D9), dotaccentcomb (U+0307), grave (U+0060), gravecomb (U+0300), hungarumlaut (U+02DD), hungarumlautcomb (U+030B), hyphen (U+002D), lcaron (U+013E), macron (U+00AF), macroncomb (U+0304), ogonek (U+02DB), ogonekcomb (U+0328), periodcentered (U+00B7), quoteleft (U+2018), quoteright (U+2019), ring (U+02DA), ringcomb (U+030A), tcaron (U+0165), tilde (U+02DC), tildecomb (U+0303) and uni0326 (U+0326) [code: spacing-mark-glyphs]
+	 Lcaron (U+013D), acute (U+00B4), acutecomb (U+0301), breve (U+02D8), brevecomb (U+0306), caron (U+02C7), caroncomb (U+030C), cedilla (U+00B8), cedillacomb (U+0327), circumflex (U+02C6), circumflexcomb (U+0302), dcaron (U+010F), dieresis (U+00A8), dieresiscomb (U+0308), dotaccent (U+02D9), dotaccentcomb (U+0307), grave (U+0060), hungarumlaut (U+02DD), hungarumlautcomb (U+030B), hyphen (U+002D), lcaron (U+013E), macron (U+00AF), macroncomb (U+0304), ogonek (U+02DB), ogonekcomb (U+0328), periodcentered (U+00B7), quoteleft (U+2018), quoteright (U+2019), ring (U+02DA), ringcomb (U+030A), tcaron (U+0165), tilde (U+02DC), tildecomb (U+0303) and uni0326 (U+0326) [code: spacing-mark-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
+
+
+* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
+	 gravecomb (U+0300) [code: mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
 
 
@@ -327,17 +305,17 @@ greaterequal
 
 The dot of soft dotted characters _should_ disappear in other cases, for example: ĭ i̇ ǐ ĭ̦ i̦̇ i̦̊ i̦̋ ǐ̦ ĭ̧ i̧̇ i̧̊ i̧̋ ǐ̧ j̆ j̇ j̊ j̋ ǰ j̦̀ j̦́
 
-Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers). 
+Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Lithuanian (Latn, 2,357,094 speakers). 
 
-Your font does *not* cover the following languages that require the soft-dotted feature: Southern Kisi (Latn, 360,000 speakers), Ekpeye (Latn, 226,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Kom (Latn, 360,685 speakers), Dutch (Latn, 31,709,104 speakers), Ejagham (Latn, 120,000 speakers), South Central Banda (Latn, 244,000 speakers), Ebira (Latn, 2,200,000 speakers), Avokaya (Latn, 100,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Koonzime (Latn, 40,000 speakers), Fur (Latn, 1,230,163 speakers), Belarusian (Cyrl, 10,064,517 speakers), Lugbara (Latn, 2,200,000 speakers), Gulay (Latn, 250,478 speakers), Basaa (Latn, 332,940 speakers), Nateni (Latn, 100,000 speakers), Makaa (Latn, 221,000 speakers), Dan (Latn, 1,099,244 speakers), Mango (Latn, 77,000 speakers), Navajo (Latn, 166,319 speakers), Aghem (Latn, 38,843 speakers), Igbo (Latn, 27,823,640 speakers), Yala (Latn, 200,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Zapotec (Latn, 490,000 speakers), Bafut (Latn, 158,146 speakers), Bete-Bendi (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Ma’di (Latn, 584,000 speakers), Cicipu (Latn, 44,000 speakers), Sar (Latn, 500,000 speakers), Mfumte (Latn, 79,000 speakers). [code: soft-dotted]
+Your font does *not* cover the following languages that require the soft-dotted feature: Ngbaka (Latn, 1,020,000 speakers), Mundani (Latn, 34,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Sar (Latn, 500,000 speakers), Nateni (Latn, 100,000 speakers), Dan (Latn, 1,099,244 speakers), Cicipu (Latn, 44,000 speakers), Basaa (Latn, 332,940 speakers), Southern Kisi (Latn, 360,000 speakers), Nzakara (Latn, 50,000 speakers), South Central Banda (Latn, 244,000 speakers), Ekpeye (Latn, 226,000 speakers), Gulay (Latn, 250,478 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Makaa (Latn, 221,000 speakers), Mango (Latn, 77,000 speakers), Aghem (Latn, 38,843 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Igbo (Latn, 27,823,640 speakers), Lugbara (Latn, 2,200,000 speakers), Dii (Latn, 71,000 speakers), Fur (Latn, 1,230,163 speakers), Yala (Latn, 200,000 speakers), Mfumte (Latn, 79,000 speakers), Avokaya (Latn, 100,000 speakers), Bafut (Latn, 158,146 speakers), Navajo (Latn, 166,319 speakers), Ebira (Latn, 2,200,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ejagham (Latn, 120,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Zapotec (Latn, 490,000 speakers), Kom (Latn, 360,685 speakers). [code: soft-dotted]
 </div></details><br></div></details>
 
 ### Summary
 
 | 💔 ERROR | ☠ FATAL | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 0 | 0 | 2 | 10 | 106 | 8 | 134 | 0 |
-| 0% | 0% | 1% | 4% | 41% | 3% | 52% | 0% |
+| 0 | 0 | 1 | 11 | 106 | 8 | 134 | 0 |
+| 0% | 0% | 0% | 4% | 41% | 3% | 52% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
