@@ -22,7 +22,7 @@ Don't hesitate to create images!
 ![Sample Image](documentation/c3.png)
 ![Sample Image](documentation/c4.png)
 ![Sample Image](documentation/c5.png)
-![Sample Image](documentation/c6.png)
+![Sample Image](documentation/c6.jpg)
 
 ## About
 

@@ -3,9 +3,6 @@
   <advance width="274"/>
   <unicode hex="0300"/>
   <anchor x="195" y="730" name="_top"/>
-  <outline>
-    <component base="grave"/>
-  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
