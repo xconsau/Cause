@@ -5,6 +5,7 @@
   <anchor x="313" y="730" name="top"/>
   <outline>
     <component base="Y"/>
+    <component base="gravecomb" xOffset="118"/>
   </outline>
   <lib>
   <dict>

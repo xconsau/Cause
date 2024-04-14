@@ -2,7 +2,10 @@
 <glyph name="gravecomb" format="2">
   <advance width="274"/>
   <unicode hex="0300"/>
-  <anchor x="140" y="730" name="top"/>
+  <anchor x="195" y="730" name="_top"/>
+  <outline>
+    <component base="grave"/>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

@@ -233,7 +233,6 @@
     <string>ij</string>
     <string>Tcedilla</string>
     <string>tcedilla</string>
-    <string>gravecomb</string>
     <string>acutecomb</string>
     <string>circumflexcomb</string>
     <string>tildecomb</string>
@@ -247,8 +246,6 @@
     <string>cedillacomb</string>
     <string>ogonekcomb</string>
     <string>Germandbls</string>
-    <string>Ygrave</string>
-    <string>ygrave</string>
     <string>Agrave</string>
     <string>Aacute</string>
     <string>Acircumflex</string>
@@ -275,7 +272,6 @@
     <string>Ucircumflex</string>
     <string>Udieresis</string>
     <string>Yacute</string>
-    <string>agrave</string>
     <string>aacute</string>
     <string>acircumflex</string>
     <string>atilde</string>
@@ -296,7 +292,6 @@
     <string>ocircumflex</string>
     <string>otilde</string>
     <string>odieresis</string>
-    <string>ugrave</string>
     <string>uacute</string>
     <string>ucircumflex</string>
     <string>udieresis</string>
@@ -419,6 +414,11 @@
     <string>wacute</string>
     <string>Wdieresis</string>
     <string>wdieresis</string>
+    <string>gravecomb</string>
+    <string>Ygrave</string>
+    <string>ygrave</string>
+    <string>agrave</string>
+    <string>ugrave</string>
   </array>
 </dict>
 </plist>
