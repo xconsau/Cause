@@ -5,24 +5,24 @@
   <outline>
     <component base="l"/>
     <contour>
-      <point x="225" y="504" type="curve" smooth="yes"/>
-      <point x="252" y="552"/>
-      <point x="264" y="637"/>
-      <point x="252" y="699" type="curve" smooth="yes"/>
-      <point x="251" y="703"/>
-      <point x="248" y="706"/>
-      <point x="243" y="706" type="curve" smooth="yes"/>
-      <point x="237" y="706"/>
-      <point x="234" y="701"/>
-      <point x="235" y="695" type="curve" smooth="yes"/>
-      <point x="246" y="645"/>
-      <point x="234" y="553"/>
-      <point x="212" y="512" type="curve" smooth="yes"/>
-      <point x="209" y="506"/>
-      <point x="212" y="500"/>
-      <point x="218" y="500" type="curve" smooth="yes"/>
-      <point x="221" y="500"/>
-      <point x="224" y="501"/>
+      <point x="225.02" y="503.839" type="curve" smooth="yes"/>
+      <point x="252.008" y="552.067"/>
+      <point x="263.879" y="637.059"/>
+      <point x="252.228" y="698.639" type="curve" smooth="yes"/>
+      <point x="251.349" y="703.286"/>
+      <point x="247.748" y="706.394"/>
+      <point x="243.242" y="706.394" type="curve" smooth="yes"/>
+      <point x="237.333" y="706.394"/>
+      <point x="233.812" y="701.38"/>
+      <point x="235.201" y="694.941" type="curve" smooth="yes"/>
+      <point x="245.897" y="645.332"/>
+      <point x="234.278" y="553.142"/>
+      <point x="212.089" y="511.557" type="curve" smooth="yes"/>
+      <point x="208.846" y="505.48"/>
+      <point x="211.69" y="499.936"/>
+      <point x="218.052" y="499.936" type="curve" smooth="yes"/>
+      <point x="221.04" y="499.936"/>
+      <point x="223.656" y="501.401"/>
     </contour>
   </outline>
 </glyph>
