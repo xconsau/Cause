@@ -6,11 +6,8 @@
     <component base="l"/>
     <contour>
       <point x="225" y="504" type="curve" smooth="yes"/>
-      <point x="245" y="539"/>
-      <point x="257" y="595"/>
-      <point x="257" y="646" type="curve" smooth="yes"/>
-      <point x="257" y="665"/>
-      <point x="255" y="683"/>
+      <point x="252" y="552"/>
+      <point x="264" y="637"/>
       <point x="252" y="699" type="curve" smooth="yes"/>
       <point x="251" y="703"/>
       <point x="248" y="706"/>
@@ -18,11 +15,8 @@
       <point x="237" y="706"/>
       <point x="234" y="701"/>
       <point x="235" y="695" type="curve" smooth="yes"/>
-      <point x="238" y="682"/>
-      <point x="239" y="666"/>
-      <point x="239" y="650" type="curve" smooth="yes"/>
-      <point x="239" y="601"/>
-      <point x="228" y="542"/>
+      <point x="246" y="645"/>
+      <point x="234" y="553"/>
       <point x="212" y="512" type="curve" smooth="yes"/>
       <point x="209" y="506"/>
       <point x="212" y="500"/>
