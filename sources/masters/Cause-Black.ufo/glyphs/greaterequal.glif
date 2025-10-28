@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greaterequal" format="2">
+<glyph name="greaterequal" format="1">
   <advance width="491"/>
   <unicode hex="2265"/>
   <outline>
     <component base="less" xScale="-1" xOffset="501.36"/>
     <contour>
-      <point x="377.808" y="-146.037" type="curve" smooth="yes"/>
-      <point x="423.668" y="-149.917"/>
-      <point x="445.919" y="-119.013"/>
-      <point x="445.919" y="-87.5505" type="curve" smooth="yes"/>
-      <point x="445.919" y="-58.5092"/>
-      <point x="426.961" y="-28.9915"/>
-      <point x="390.113" y="-25.9128" type="curve" smooth="yes"/>
-      <point x="284.963" y="-17.1274"/>
-      <point x="225.648" y="-14.992"/>
-      <point x="120.498" y="-16.2066" type="curve" smooth="yes"/>
-      <point x="77.2456" y="-16.7062"/>
-      <point x="56.3256" y="-46.4368"/>
-      <point x="56.3256" y="-76.1517" type="curve" smooth="yes"/>
-      <point x="56.3256" y="-106.3"/>
-      <point x="77.8601" y="-136.432"/>
-      <point x="119.454" y="-136.003" type="curve" smooth="yes"/>
-      <point x="221.175" y="-134.953"/>
-      <point x="268.573" y="-136.794"/>
+      <point x="377.8" y="-146" type="curve" smooth="yes"/>
+      <point x="423.7" y="-149.9"/>
+      <point x="445.9" y="-119"/>
+      <point x="445.9" y="-87.6" type="curve" smooth="yes"/>
+      <point x="445.9" y="-58.5"/>
+      <point x="427" y="-29"/>
+      <point x="390.1" y="-25.9" type="curve" smooth="yes"/>
+      <point x="285" y="-17.1"/>
+      <point x="225.6" y="-15"/>
+      <point x="120.5" y="-16.2" type="curve" smooth="yes"/>
+      <point x="77.2" y="-16.7"/>
+      <point x="56.3" y="-46.4"/>
+      <point x="56.3" y="-76.2" type="curve" smooth="yes"/>
+      <point x="56.3" y="-106.3"/>
+      <point x="77.9" y="-136.4"/>
+      <point x="119.5" y="-136" type="curve" smooth="yes"/>
+      <point x="221.2" y="-135"/>
+      <point x="268.6" y="-136.8"/>
     </contour>
   </outline>
 </glyph>

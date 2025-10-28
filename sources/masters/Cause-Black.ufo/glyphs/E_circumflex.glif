@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ecircumflex" format="2">
+<glyph name="Ecircumflex" format="1">
   <advance width="543"/>
   <unicode hex="00CA"/>
-  <anchor x="291" y="730" name="top"/>
   <outline>
     <component base="E"/>
     <component base="circumflex" xOffset="95"/>

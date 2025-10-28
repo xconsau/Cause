@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omacron" format="2">
+<glyph name="Omacron" format="1">
   <advance width="658"/>
   <unicode hex="014C"/>
-  <anchor x="331" y="730" name="top"/>
   <outline>
     <component base="O"/>
     <component base="macron" xOffset="95"/>

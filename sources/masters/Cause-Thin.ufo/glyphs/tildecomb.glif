@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tildecomb" format="2">
+<glyph name="tildecomb" format="1">
   <advance width="449"/>
   <unicode hex="0303"/>
-  <anchor x="224" y="730" name="_top"/>
   <outline>
     <component base="tilde"/>
   </outline>
   <lib>
   <dict>
-  <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.604</real>
+    <real>0.6</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
   </dict>
   </lib>
 </glyph>

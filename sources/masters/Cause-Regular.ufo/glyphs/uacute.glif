@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uacute" format="2">
+<glyph name="uacute" format="1">
   <advance width="554"/>
   <unicode hex="00FA"/>
-  <anchor x="441" y="0" name="bottom"/>
-  <anchor x="282" y="530" name="top"/>
   <outline>
     <component base="u"/>
     <component base="acutecomb" xOffset="204" yOffset="-200"/>

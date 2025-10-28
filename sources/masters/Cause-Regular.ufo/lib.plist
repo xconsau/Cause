@@ -2,6 +2,93 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>250</real>
+      <key>name</key>
+      <string>m</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>324</real>
+      <key>name</key>
+      <string>f</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>465</real>
+      <key>name</key>
+      <string>f1</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>155</real>
+      <key>name</key>
+      <string>t</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>620</real>
+      <key>name</key>
+      <string>t1</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>930</real>
+      <key>name</key>
+      <string>t2</string>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <true/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-142</real>
+      <key>name</key>
+      <string>t4</string>
+    </dict>
+  </array>
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
@@ -348,7 +435,6 @@
     <string>lacute</string>
     <string>Lcommaaccent</string>
     <string>lcommaaccent</string>
-    <string>Lcaron</string>
     <string>lcaron</string>
     <string>Ldot</string>
     <string>ldot</string>
@@ -419,6 +505,7 @@
     <string>ygrave</string>
     <string>agrave</string>
     <string>ugrave</string>
+    <string>Lcaron</string>
   </array>
 </dict>
 </plist>

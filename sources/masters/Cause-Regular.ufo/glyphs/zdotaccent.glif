@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zdotaccent" format="2">
+<glyph name="zdotaccent" format="1">
   <advance width="513"/>
   <unicode hex="017C"/>
-  <anchor x="260" y="530" name="top"/>
   <outline>
     <component base="z"/>
     <component base="dotaccent" xOffset="150" yOffset="-200"/>

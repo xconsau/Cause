@@ -1,47 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Y" format="2">
+<glyph name="Y" format="1">
   <advance width="616"/>
   <unicode hex="0059"/>
-  <anchor x="313" y="730" name="top"/>
   <outline>
     <contour>
       <point x="404.7" y="59" type="curve" smooth="yes"/>
-      <point x="411.851" y="120.11"/>
-      <point x="411.149" y="194.517"/>
-      <point x="402.5" y="291.95" type="curve"/>
-      <point x="464.34" y="374.203"/>
-      <point x="545.97" y="506.507"/>
-      <point x="586.35" y="589.9" type="curve" smooth="yes"/>
-      <point x="613.543" y="646.06"/>
-      <point x="574.559" y="705.695"/>
-      <point x="510.654" y="705.695" type="curve" smooth="yes"/>
-      <point x="478.908" y="705.695"/>
-      <point x="453.501" y="688.051"/>
+      <point x="407.958" y="86.6514"/>
+      <point x="409.578" y="117.027"/>
+      <point x="409.578" y="151.035" type="curve" smooth="yes"/>
+      <point x="409.578" y="192.172"/>
+      <point x="407.208" y="238.625"/>
+      <point x="402.5" y="292" type="curve"/>
+      <point x="464.3" y="374.2"/>
+      <point x="546" y="506.5"/>
+      <point x="586.3" y="589.9" type="curve" smooth="yes"/>
+      <point x="592.309" y="602.316"/>
+      <point x="595.092" y="614.898"/>
+      <point x="595.092" y="626.966" type="curve" smooth="yes"/>
+      <point x="595.092" y="669.525"/>
+      <point x="560.483" y="705.7"/>
+      <point x="510.7" y="705.7" type="curve" smooth="yes"/>
+      <point x="478.9" y="705.7"/>
+      <point x="453.5" y="688.1"/>
       <point x="441.5" y="657.7" type="curve" smooth="yes"/>
-      <point x="420.279" y="604.031"/>
-      <point x="377.539" y="520.924"/>
-      <point x="333.919" y="448.511" type="curve"/>
-      <point x="278.389" y="539.581"/>
-      <point x="207.068" y="639.299"/>
-      <point x="167.95" y="680.6" type="curve" smooth="yes"/>
-      <point x="151.834" y="697.615"/>
-      <point x="131.691" y="706.707"/>
-      <point x="110.109" y="706.707" type="curve" smooth="yes"/>
-      <point x="37.313" y="706.707"/>
-      <point x="4.29276" y="625.963"/>
+      <point x="420.3" y="604"/>
+      <point x="377.5" y="520.9"/>
+      <point x="333.9" y="448.5" type="curve"/>
+      <point x="278.4" y="539.6"/>
+      <point x="207.1" y="639.3"/>
+      <point x="167.9" y="680.6" type="curve" smooth="yes"/>
+      <point x="151.8" y="697.6"/>
+      <point x="131.7" y="706.7"/>
+      <point x="110.1" y="706.7" type="curve" smooth="yes"/>
+      <point x="61.284" y="706.7"/>
+      <point x="30.3636" y="670.414"/>
+      <point x="30.3636" y="629.712" type="curve" smooth="yes"/>
+      <point x="30.3636" y="609.714"/>
+      <point x="37.8275" y="588.65"/>
       <point x="54.3" y="570.3" type="curve" smooth="yes"/>
-      <point x="145.344" y="468.959"/>
-      <point x="230.517" y="349.42"/>
-      <point x="245.75" y="301.6" type="curve"/>
-      <point x="253.769" y="245.065"/>
-      <point x="252.894" y="162.277"/>
-      <point x="243.25" y="69.6" type="curve" smooth="yes"/>
-      <point x="238.827" y="27.0978"/>
-      <point x="275.135" y="-6.51073"/>
-      <point x="325.475" y="-6.51073" type="curve" smooth="yes"/>
-      <point x="368.718" y="-6.51073"/>
-      <point x="400.068" y="19.4122"/>
+      <point x="145.3" y="469"/>
+      <point x="230.5" y="349.4"/>
+      <point x="245.7" y="301.6" type="curve"/>
+      <point x="249.373" y="275.981"/>
+      <point x="251.195" y="244.956"/>
+      <point x="251.195" y="210.052" type="curve" smooth="yes"/>
+      <point x="251.195" y="167.977"/>
+      <point x="248.547" y="120.267"/>
+      <point x="243.3" y="69.6" type="curve" smooth="yes"/>
+      <point x="238.8" y="27.1"/>
+      <point x="275.1" y="-6.5"/>
+      <point x="325.5" y="-6.5" type="curve" smooth="yes"/>
+      <point x="368.7" y="-6.5"/>
+      <point x="400.1" y="19.4"/>
+    </contour>
+    <contour>
+      <point x="313" y="730" type="move" name="top"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-6"/>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-6</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>

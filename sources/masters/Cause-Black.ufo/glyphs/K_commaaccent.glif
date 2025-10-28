@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Kcommaaccent" format="2">
+<glyph name="Kcommaaccent" format="1">
   <advance width="597"/>
   <unicode hex="0136"/>
-  <anchor x="310" y="0" name="bottom"/>
   <outline>
     <component base="K"/>
     <component base="uni0326" xOffset="210" yOffset="-30"/>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eacute" format="2">
+<glyph name="Eacute" format="1">
   <advance width="493"/>
   <unicode hex="00C9"/>
-  <anchor x="251" y="730" name="top"/>
   <outline>
     <component base="E"/>
     <component base="acutecomb" xOffset="182"/>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yacute" format="2">
+<glyph name="yacute" format="1">
   <advance width="510"/>
   <unicode hex="00FD"/>
-  <anchor x="262" y="530" name="top"/>
   <outline>
     <component base="y"/>
     <component base="acutecomb" xOffset="193" yOffset="-200"/>

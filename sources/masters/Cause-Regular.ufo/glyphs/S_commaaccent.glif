@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scommaaccent" format="2">
+<glyph name="Scommaaccent" format="1">
   <advance width="524"/>
   <unicode hex="0218"/>
-  <anchor x="255" y="0" name="bottom"/>
-  <anchor x="255" y="730" name="top"/>
   <outline>
     <component base="S"/>
     <component base="uni0326" xOffset="147" yOffset="-30"/>

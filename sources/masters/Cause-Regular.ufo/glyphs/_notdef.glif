@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name=".notdef" format="2">
+<glyph name=".notdef" format="1">
   <advance width="571"/>
   <outline>
     <contour>
-      <point x="500.37" y="0" type="line"/>
-      <point x="500.37" y="700.05" type="line"/>
-      <point x="70.0058" y="700.05" type="line"/>
-      <point x="70.0058" y="0" type="line"/>
+      <point x="500.4" y="0" type="line"/>
+      <point x="500.4" y="700" type="line"/>
+      <point x="70" y="700" type="line"/>
+      <point x="70" y="0" type="line"/>
     </contour>
     <contour>
       <point x="470" y="27" type="line"/>

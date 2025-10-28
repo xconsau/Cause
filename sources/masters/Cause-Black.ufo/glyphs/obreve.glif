@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="obreve" format="2">
+<glyph name="obreve" format="1">
   <advance width="591"/>
   <unicode hex="014F"/>
-  <anchor x="299" y="530" name="top"/>
   <outline>
     <component base="o"/>
     <component base="breve" xOffset="112" yOffset="-200"/>

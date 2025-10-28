@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lcaron" format="2">
+<glyph name="Lcaron" format="1">
   <advance width="470"/>
   <unicode hex="013D"/>
-  <anchor x="335" y="700" name="_right"/>
-  <anchor x="260" y="0" name="bottom"/>
-  <anchor x="335" y="392" name="center"/>
-  <anchor x="335" y="700" name="right"/>
-  <anchor x="115" y="730" name="top"/>
   <outline>
     <component base="L"/>
-    <contour>
-      <point x="404.703" y="511.025" type="curve" smooth="yes"/>
-      <point x="428.91" y="563.265"/>
-      <point x="437.439" y="614.87"/>
-      <point x="432.461" y="678.986" type="curve" smooth="yes"/>
-      <point x="431.024" y="697.507"/>
-      <point x="416.889" y="710.318"/>
-      <point x="397.894" y="710.318" type="curve" smooth="yes"/>
-      <point x="375.179" y="710.318"/>
-      <point x="360.583" y="692.765"/>
-      <point x="364.069" y="669.638" type="curve" smooth="yes"/>
-      <point x="370.876" y="624.479"/>
-      <point x="364.507" y="580.002"/>
-      <point x="343.698" y="527.388" type="curve" smooth="yes"/>
-      <point x="335.342" y="506.261"/>
-      <point x="348.451" y="486.097"/>
-      <point x="370.541" y="486.097" type="curve" smooth="yes"/>
-      <point x="384.778" y="486.097"/>
-      <point x="397.43" y="495.329"/>
-    </contour>
+    <component base="quoteright" xOffset="281"/>
   </outline>
 </glyph>

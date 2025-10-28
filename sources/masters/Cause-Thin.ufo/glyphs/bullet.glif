@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bullet" format="2">
+<glyph name="bullet" format="1">
   <advance width="271"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="133.687" y="180.74" type="curve" smooth="yes"/>
-      <point x="174.526" y="180.74"/>
-      <point x="200.153" y="204.88"/>
-      <point x="200.153" y="243.35" type="curve" smooth="yes"/>
-      <point x="200.153" y="284.925"/>
-      <point x="174.691" y="310.74"/>
-      <point x="133.687" y="310.74" type="curve" smooth="yes"/>
-      <point x="94.5477" y="310.74"/>
-      <point x="70" y="284.765"/>
-      <point x="70" y="243.35" type="curve" smooth="yes"/>
-      <point x="70" y="204.405"/>
-      <point x="94.072" y="180.74"/>
+      <point x="133.7" y="180.7" type="curve" smooth="yes"/>
+      <point x="174.5" y="180.7"/>
+      <point x="200.2" y="204.9"/>
+      <point x="200.2" y="243.4" type="curve" smooth="yes"/>
+      <point x="200.2" y="284.9"/>
+      <point x="174.7" y="310.7"/>
+      <point x="133.7" y="310.7" type="curve" smooth="yes"/>
+      <point x="94.5" y="310.7"/>
+      <point x="70" y="284.8"/>
+      <point x="70" y="243.4" type="curve" smooth="yes"/>
+      <point x="70" y="204.4"/>
+      <point x="94.1" y="180.7"/>
     </contour>
   </outline>
 </glyph>

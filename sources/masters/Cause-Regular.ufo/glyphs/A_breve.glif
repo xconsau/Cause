@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abreve" format="2">
+<glyph name="Abreve" format="1">
   <advance width="614"/>
   <unicode hex="0102"/>
-  <anchor x="293" y="730" name="top"/>
   <outline>
     <component base="A"/>
     <component base="breve" xOffset="96"/>

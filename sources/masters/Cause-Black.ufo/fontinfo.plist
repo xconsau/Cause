@@ -12,85 +12,8 @@
   <integer>-250</integer>
   <key>familyName</key>
   <string>Cause</string>
-  <key>guidelines</key>
-  <array>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>250</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>950</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t2</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>930</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>324</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>b</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>263</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>b1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>-140</integer>
-  </dict>
-  </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>openTypeGaspRangeRecords</key>
-  <array>
-  <dict>
-    <key>rangeGaspBehavior</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-        <integer>2</integer>
-        <integer>3</integer>
-      </array>
-    <key>rangeMaxPPEM</key>
-    <integer>65535</integer>
-  </dict>
-  </array>
   <key>openTypeHeadCreated</key>
   <string>2020/05/06 07:07:36</string>
   <key>openTypeHeadFlags</key>

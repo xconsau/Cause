@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iacute" format="2">
+<glyph name="iacute" format="1">
   <advance width="230"/>
   <unicode hex="00ED"/>
-  <anchor x="113" y="530" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="acutecomb" xOffset="35" yOffset="-200"/>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gdotaccent" format="2">
+<glyph name="gdotaccent" format="1">
   <advance width="562"/>
   <unicode hex="0121"/>
-  <anchor x="287" y="550" name="top"/>
   <outline>
     <component base="g"/>
     <component base="dotaccent" xOffset="191" yOffset="-180"/>

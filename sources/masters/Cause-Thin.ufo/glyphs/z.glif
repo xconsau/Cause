@@ -1,46 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="z" format="2">
+<glyph name="z" format="1">
   <advance width="520"/>
   <unicode hex="007A"/>
-  <anchor x="258" y="530" name="top"/>
   <outline>
     <contour>
-      <point x="465.759" y="-0.2845" type="curve" smooth="yes"/>
-      <point x="470.713" y="-0.5157"/>
-      <point x="474.847" y="3.54411"/>
-      <point x="474.847" y="8.63852" type="curve" smooth="yes"/>
-      <point x="474.847" y="13.2306"/>
-      <point x="471.349" y="16.3263"/>
-      <point x="465.85" y="16.6" type="curve" smooth="yes"/>
-      <point x="327.367" y="23.4922"/>
-      <point x="212.807" y="24.3042"/>
-      <point x="89.9226" y="19.2646" type="curve"/>
-      <point x="216.308" y="161.942"/>
-      <point x="360.07" y="353.369"/>
-      <point x="436.2" y="480.35" type="curve" smooth="yes"/>
-      <point x="443.118" y="491.889"/>
-      <point x="438.101" y="500.741"/>
-      <point x="424.95" y="500.2" type="curve" smooth="yes"/>
-      <point x="304.399" y="495.244"/>
-      <point x="191.841" y="495.291"/>
+      <point x="465.8" y="-0.3" type="curve" smooth="yes"/>
+      <point x="470.7" y="-0.5"/>
+      <point x="474.8" y="3.5"/>
+      <point x="474.8" y="8.6" type="curve" smooth="yes"/>
+      <point x="474.8" y="13.2"/>
+      <point x="471.3" y="16.3"/>
+      <point x="465.9" y="16.6" type="curve" smooth="yes"/>
+      <point x="386.447" y="20.5583"/>
+      <point x="314.86" y="22.5091"/>
+      <point x="245.059" y="22.5091" type="curve" smooth="yes"/>
+      <point x="193.184" y="22.5091"/>
+      <point x="142.296" y="21.4317"/>
+      <point x="89.9" y="19.3" type="curve"/>
+      <point x="216.3" y="161.9"/>
+      <point x="360.1" y="353.4"/>
+      <point x="436.2" y="480.4" type="curve" smooth="yes"/>
+      <point x="443.1" y="491.9"/>
+      <point x="438.1" y="500.7"/>
+      <point x="425" y="500.2" type="curve" smooth="yes"/>
+      <point x="365.595" y="497.737"/>
+      <point x="308.132" y="496.512"/>
+      <point x="250.016" y="496.512" type="curve" smooth="yes"/>
+      <point x="190.148" y="496.512"/>
+      <point x="129.588" y="497.812"/>
       <point x="65.5" y="500.4" type="curve" smooth="yes"/>
-      <point x="59.4813" y="500.643"/>
-      <point x="55.0988" y="496.979"/>
-      <point x="55.0988" y="491.704" type="curve" smooth="yes"/>
-      <point x="55.0988" y="486.525"/>
-      <point x="59.3531" y="482.754"/>
-      <point x="65.4" y="482.55" type="curve" smooth="yes"/>
-      <point x="203.115" y="477.904"/>
-      <point x="309.576" y="477.811"/>
-      <point x="416.128" y="482.243" type="curve"/>
-      <point x="328.488" y="341.353"/>
-      <point x="180.353" y="145.355"/>
-      <point x="66.45" y="19.35" type="curve" smooth="yes"/>
-      <point x="58.5144" y="10.5712"/>
-      <point x="63.0175" y="0.0639085"/>
-      <point x="74.4" y="0.800009" type="curve" smooth="yes"/>
-      <point x="169.613" y="6.95731"/>
-      <point x="319.524" y="6.54191"/>
+      <point x="59.5" y="500.6"/>
+      <point x="55.1" y="497"/>
+      <point x="55.1" y="491.7" type="curve" smooth="yes"/>
+      <point x="55.1" y="486.5"/>
+      <point x="59.4" y="482.8"/>
+      <point x="65.4" y="482.6" type="curve" smooth="yes"/>
+      <point x="136.142" y="480.185"/>
+      <point x="198.649" y="478.985"/>
+      <point x="257.152" y="478.985" type="curve" smooth="yes"/>
+      <point x="312.526" y="478.985"/>
+      <point x="364.313" y="480.06"/>
+      <point x="416.1" y="482.2" type="curve"/>
+      <point x="328.5" y="341.4"/>
+      <point x="180.4" y="145.4"/>
+      <point x="66.5" y="19.4" type="curve" smooth="yes"/>
+      <point x="58.5" y="10.6"/>
+      <point x="63" y="0.1"/>
+      <point x="74.4" y="0.8" type="curve" smooth="yes"/>
+      <point x="119.074" y="3.70941"/>
+      <point x="175.792" y="5.14345"/>
+      <point x="238.532" y="5.14345" type="curve" smooth="yes"/>
+      <point x="309.491" y="5.14345"/>
+      <point x="388.153" y="3.30903"/>
+    </contour>
+    <contour>
+      <point x="258" y="530" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

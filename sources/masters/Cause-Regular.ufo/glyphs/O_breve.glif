@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Obreve" format="2">
+<glyph name="Obreve" format="1">
   <advance width="658"/>
   <unicode hex="014E"/>
-  <anchor x="331" y="730" name="top"/>
   <outline>
     <component base="O"/>
     <component base="breve" xOffset="134"/>
