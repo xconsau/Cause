@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="284"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="153" y="560" type="curve" smooth="yes"/>
+      <point x="212" y="560"/>
+      <point x="249" y="589"/>
+      <point x="249" y="634" type="curve" smooth="yes"/>
+      <point x="249" y="680"/>
+      <point x="212" y="710"/>
+      <point x="153" y="710" type="curve" smooth="yes"/>
+      <point x="95" y="710"/>
+      <point x="58" y="680"/>
+      <point x="58" y="634" type="curve" smooth="yes"/>
+      <point x="58" y="589"/>
+      <point x="95" y="560"/>
+    </contour>
+    <contour>
+      <point x="224" y="73" type="curve" smooth="yes"/>
+      <point x="208" y="197"/>
+      <point x="207" y="314"/>
+      <point x="220" y="435" type="curve" smooth="yes"/>
+      <point x="224" y="475"/>
+      <point x="189" y="507"/>
+      <point x="140" y="507" type="curve" smooth="yes"/>
+      <point x="97" y="507"/>
+      <point x="66" y="482"/>
+      <point x="61" y="444" type="curve" smooth="yes"/>
+      <point x="46" y="336"/>
+      <point x="48" y="174"/>
+      <point x="66" y="53" type="curve" smooth="yes"/>
+      <point x="72" y="17"/>
+      <point x="101" y="-6"/>
+      <point x="142" y="-6" type="curve" smooth="yes"/>
+      <point x="193" y="-6"/>
+      <point x="229" y="29"/>
+    </contour>
+    <contour>
+      <point x="143" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>506</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-6</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

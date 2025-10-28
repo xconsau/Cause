@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="376"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <contour>
+      <point x="225" y="504" type="curve" smooth="yes"/>
+      <point x="252" y="552"/>
+      <point x="264" y="637"/>
+      <point x="252" y="699" type="curve" smooth="yes"/>
+      <point x="251" y="703"/>
+      <point x="248" y="706"/>
+      <point x="243" y="706" type="curve" smooth="yes"/>
+      <point x="237" y="706"/>
+      <point x="234" y="701"/>
+      <point x="235" y="695" type="curve" smooth="yes"/>
+      <point x="246" y="645"/>
+      <point x="234" y="553"/>
+      <point x="212" y="512" type="curve" smooth="yes"/>
+      <point x="209" y="506"/>
+      <point x="212" y="500"/>
+      <point x="218" y="500" type="curve" smooth="yes"/>
+      <point x="221" y="500"/>
+      <point x="224" y="501"/>
+    </contour>
+    <contour>
+      <point x="190" y="700" type="move" name="_right"/>
+    </contour>
+    <contour>
+      <point x="89" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="240" y="370" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="190" y="700" type="move" name="right"/>
+    </contour>
+  </outline>
+</glyph>
