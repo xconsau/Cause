@@ -5,30 +5,24 @@
   <outline>
     <component base="l"/>
     <contour>
-      <point x="225" y="503.8" type="curve" smooth="yes"/>
-      <point x="244.978" y="539.539"/>
-      <point x="256.689" y="595.372"/>
-      <point x="256.689" y="646.91" type="curve" smooth="yes"/>
-      <point x="256.689" y="665.023"/>
-      <point x="255.243" y="682.606"/>
-      <point x="252.2" y="698.6" type="curve" smooth="yes"/>
-      <point x="251.3" y="703.3"/>
-      <point x="247.7" y="706.4"/>
-      <point x="243.2" y="706.4" type="curve" smooth="yes"/>
-      <point x="237.3" y="706.4"/>
-      <point x="233.8" y="701.4"/>
-      <point x="235.2" y="694.9" type="curve" smooth="yes"/>
-      <point x="237.953" y="682.139"/>
-      <point x="239.23" y="666.559"/>
-      <point x="239.23" y="649.747" type="curve" smooth="yes"/>
-      <point x="239.23" y="601.214"/>
-      <point x="228.589" y="542.423"/>
-      <point x="212.1" y="511.6" type="curve" smooth="yes"/>
-      <point x="208.8" y="505.5"/>
-      <point x="211.7" y="499.9"/>
-      <point x="218.1" y="499.9" type="curve" smooth="yes"/>
-      <point x="221" y="499.9"/>
-      <point x="223.7" y="501.4"/>
+      <point x="225.02" y="503.839" type="curve" smooth="yes"/>
+      <point x="252.008" y="552.067"/>
+      <point x="263.879" y="637.059"/>
+      <point x="252.228" y="698.639" type="curve" smooth="yes"/>
+      <point x="251.349" y="703.286"/>
+      <point x="247.748" y="706.394"/>
+      <point x="243.242" y="706.394" type="curve" smooth="yes"/>
+      <point x="237.333" y="706.394"/>
+      <point x="233.812" y="701.38"/>
+      <point x="235.201" y="694.941" type="curve" smooth="yes"/>
+      <point x="245.897" y="645.332"/>
+      <point x="234.278" y="553.142"/>
+      <point x="212.089" y="511.557" type="curve" smooth="yes"/>
+      <point x="208.846" y="505.48"/>
+      <point x="211.69" y="499.936"/>
+      <point x="218.052" y="499.936" type="curve" smooth="yes"/>
+      <point x="221.04" y="499.936"/>
+      <point x="223.656" y="501.401"/>
     </contour>
     <contour>
       <point x="190" y="700" type="move" name="_right"/>

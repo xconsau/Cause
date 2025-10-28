@@ -4,24 +4,24 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="400" y="833.4" type="curve" smooth="yes"/>
-      <point x="406.2" y="833.9"/>
-      <point x="410.4" y="837.4"/>
-      <point x="410.4" y="842.2" type="curve" smooth="yes"/>
-      <point x="410.4" y="847.4"/>
-      <point x="405.6" y="851.1"/>
-      <point x="399.3" y="850.7" type="curve" smooth="yes"/>
-      <point x="242.8" y="840.6"/>
-      <point x="181.4" y="838.7"/>
-      <point x="81" y="841" type="curve" smooth="yes"/>
-      <point x="75.2" y="841.1"/>
-      <point x="70.9" y="837.3"/>
-      <point x="70.9" y="831.9" type="curve" smooth="yes"/>
-      <point x="70.9" y="826.7"/>
-      <point x="74.7" y="823.1"/>
-      <point x="80.2" y="823" type="curve" smooth="yes"/>
-      <point x="190.4" y="821.4"/>
-      <point x="259.8" y="823.7"/>
+      <point x="399.962" y="833.439" type="curve" smooth="yes"/>
+      <point x="406.172" y="833.872"/>
+      <point x="410.358" y="837.409"/>
+      <point x="410.358" y="842.225" type="curve" smooth="yes"/>
+      <point x="410.358" y="847.434"/>
+      <point x="405.586" y="851.094"/>
+      <point x="399.319" y="850.69" type="curve" smooth="yes"/>
+      <point x="242.829" y="840.615"/>
+      <point x="181.442" y="838.745"/>
+      <point x="81.0451" y="840.994" type="curve" smooth="yes"/>
+      <point x="75.17" y="841.126"/>
+      <point x="70.9104" y="837.285"/>
+      <point x="70.9104" y="831.856" type="curve" smooth="yes"/>
+      <point x="70.9104" y="826.743"/>
+      <point x="74.7377" y="823.078"/>
+      <point x="80.159" y="823" type="curve" smooth="yes"/>
+      <point x="190.422" y="821.408"/>
+      <point x="259.78" y="823.671"/>
     </contour>
     <contour>
       <point x="241" y="730" type="move" name="_top"/>

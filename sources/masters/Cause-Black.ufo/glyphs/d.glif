@@ -5,55 +5,52 @@
   <outline>
     <contour>
       <point x="268.4" y="-10.6" type="curve" smooth="yes"/>
-      <point x="336.3" y="-10.6"/>
-      <point x="393.4" y="18.3"/>
-      <point x="431.6" y="72.1" type="curve"/>
-      <point x="432.2" y="66.9"/>
-      <point x="432.8" y="61.7"/>
-      <point x="433.4" y="56.6" type="curve" smooth="yes"/>
-      <point x="437.6" y="19.8"/>
-      <point x="470.2" y="-5.6"/>
-      <point x="513.1" y="-5.6" type="curve" smooth="yes"/>
-      <point x="563.1" y="-5.6"/>
-      <point x="597" y="27.9"/>
-      <point x="593.1" y="73.7" type="curve" smooth="yes"/>
-      <point x="586.646" y="149.232"/>
-      <point x="583.441" y="230.232"/>
-      <point x="583.441" y="312.856" type="curve" smooth="yes"/>
-      <point x="583.441" y="415.864"/>
-      <point x="588.423" y="521.395"/>
-      <point x="598.3" y="622" type="curve" smooth="yes"/>
-      <point x="602.9" y="669.6"/>
-      <point x="568.1" y="705.9"/>
-      <point x="518" y="705.9" type="curve" smooth="yes"/>
-      <point x="473.7" y="705.9"/>
-      <point x="441.6" y="676.5"/>
+      <point x="336.306" y="-10.6"/>
+      <point x="393.352" y="18.3084"/>
+      <point x="431.639" y="72.1212" type="curve"/>
+      <point x="432.184" y="66.874"/>
+      <point x="432.756" y="61.6839"/>
+      <point x="433.35" y="56.55" type="curve" smooth="yes"/>
+      <point x="437.605" y="19.7767"/>
+      <point x="470.162" y="-5.61735"/>
+      <point x="513.053" y="-5.61735" type="curve" smooth="yes"/>
+      <point x="563.134" y="-5.61735"/>
+      <point x="597.008" y="27.9169"/>
+      <point x="593.1" y="73.65" type="curve" smooth="yes"/>
+      <point x="578.599" y="243.367"/>
+      <point x="580.486" y="440.715"/>
+      <point x="598.25" y="622.05" type="curve" smooth="yes"/>
+      <point x="602.903" y="669.551"/>
+      <point x="568.114" y="705.916"/>
+      <point x="518.017" y="705.916" type="curve" smooth="yes"/>
+      <point x="473.71" y="705.916"/>
+      <point x="441.587" y="676.47"/>
       <point x="438.5" y="633" type="curve" smooth="yes"/>
-      <point x="433" y="554.9"/>
-      <point x="429.2" y="492"/>
-      <point x="426.6" y="435.4" type="curve"/>
-      <point x="387.8" y="483.5"/>
-      <point x="331.8" y="509.4"/>
-      <point x="266.2" y="509.4" type="curve" smooth="yes"/>
-      <point x="132.7" y="509.4"/>
-      <point x="35.4" y="400.6"/>
+      <point x="432.957" y="554.949"/>
+      <point x="429.172" y="491.974"/>
+      <point x="426.621" y="435.36" type="curve"/>
+      <point x="387.805" y="483.533"/>
+      <point x="331.777" y="509.4"/>
+      <point x="266.25" y="509.4" type="curve" smooth="yes"/>
+      <point x="132.742" y="509.4"/>
+      <point x="35.4" y="400.609"/>
       <point x="35.4" y="251.4" type="curve" smooth="yes"/>
-      <point x="35.4" y="101.1"/>
-      <point x="134.8" y="-10.6"/>
+      <point x="35.4" y="101.117"/>
+      <point x="134.752" y="-10.6"/>
     </contour>
     <contour>
-      <point x="318.5" y="119.4" type="curve" smooth="yes"/>
-      <point x="251.3" y="119.4"/>
-      <point x="195.4" y="180.9"/>
-      <point x="195.4" y="254.8" type="curve" smooth="yes"/>
-      <point x="195.4" y="325.7"/>
-      <point x="246.4" y="379.4"/>
+      <point x="318.55" y="119.4" type="curve" smooth="yes"/>
+      <point x="251.322" y="119.4"/>
+      <point x="195.4" y="180.861"/>
+      <point x="195.4" y="254.75" type="curve" smooth="yes"/>
+      <point x="195.4" y="325.724"/>
+      <point x="246.428" y="379.4"/>
       <point x="313.9" y="379.4" type="curve" smooth="yes"/>
-      <point x="379.2" y="379.4"/>
-      <point x="422.4" y="328.2"/>
-      <point x="422.4" y="250.8" type="curve" smooth="yes"/>
-      <point x="422.4" y="172.3"/>
-      <point x="380.5" y="119.4"/>
+      <point x="379.215" y="379.4"/>
+      <point x="422.4" y="328.195"/>
+      <point x="422.4" y="250.75" type="curve" smooth="yes"/>
+      <point x="422.4" y="172.341"/>
+      <point x="380.543" y="119.4"/>
     </contour>
     <contour>
       <point x="640" y="700" type="move" name="right"/>
