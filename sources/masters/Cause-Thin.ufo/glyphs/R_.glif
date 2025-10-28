@@ -4,53 +4,56 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="499.05" y="9.3" type="curve" smooth="yes"/>
-      <point x="439.208" y="103.064"/>
-      <point x="356.992" y="207.169"/>
-      <point x="269.079" y="300.495" type="curve"/>
-      <point x="416.108" y="333.205"/>
-      <point x="503.65" y="411.522"/>
-      <point x="503.65" y="510.35" type="curve" smooth="yes"/>
-      <point x="503.65" y="636.012"/>
-      <point x="362.426" y="706.4"/>
-      <point x="110.3" y="706.4" type="curve" smooth="yes"/>
-      <point x="95.7803" y="706.4"/>
-      <point x="89.4257" y="699.378"/>
-      <point x="90.3" y="684.3" type="curve" smooth="yes"/>
-      <point x="101.362" y="493.538"/>
-      <point x="101.498" y="228.641"/>
-      <point x="90.65" y="3.55" type="curve" smooth="yes"/>
-      <point x="90.3811" y="-2.0293"/>
-      <point x="94.3262" y="-6.14381"/>
-      <point x="99.9447" y="-6.14381" type="curve" smooth="yes"/>
-      <point x="105.265" y="-6.14381"/>
-      <point x="109.101" y="-2.39453"/>
-      <point x="109.3" y="3" type="curve" smooth="yes"/>
-      <point x="113.424" y="115.048"/>
-      <point x="115.59" y="202.825"/>
-      <point x="116.241" y="284.224" type="curve"/>
-      <point x="162.798" y="284.565"/>
-      <point x="207.21" y="288.628"/>
-      <point x="248.45" y="296.319" type="curve"/>
-      <point x="338.541" y="201.944"/>
-      <point x="422.704" y="96.0283"/>
-      <point x="484.35" y="-0.550047" type="curve" smooth="yes"/>
-      <point x="486.557" y="-4.00794"/>
-      <point x="489.669" y="-5.95574"/>
-      <point x="492.986" y="-5.95574" type="curve" smooth="yes"/>
-      <point x="500.398" y="-5.95574"/>
-      <point x="503.617" y="2.14323"/>
+      <point x="499" y="9" type="curve" smooth="yes"/>
+      <point x="439" y="103"/>
+      <point x="357" y="207"/>
+      <point x="269" y="301" type="curve"/>
+      <point x="416" y="333"/>
+      <point x="504" y="412"/>
+      <point x="504" y="510" type="curve" smooth="yes"/>
+      <point x="504" y="636"/>
+      <point x="362" y="706"/>
+      <point x="110" y="706" type="curve" smooth="yes"/>
+      <point x="96" y="706"/>
+      <point x="89" y="699"/>
+      <point x="90" y="684" type="curve" smooth="yes"/>
+      <point x="96" y="585"/>
+      <point x="99" y="465"/>
+      <point x="99" y="341" type="curve" smooth="yes"/>
+      <point x="99" y="228"/>
+      <point x="96" y="111"/>
+      <point x="91" y="4" type="curve" smooth="yes"/>
+      <point x="90" y="-2"/>
+      <point x="94" y="-6"/>
+      <point x="100" y="-6" type="curve" smooth="yes"/>
+      <point x="105" y="-6"/>
+      <point x="109" y="-2"/>
+      <point x="109" y="3" type="curve" smooth="yes"/>
+      <point x="113" y="115"/>
+      <point x="116" y="203"/>
+      <point x="116" y="284" type="curve"/>
+      <point x="163" y="285"/>
+      <point x="207" y="289"/>
+      <point x="249" y="296" type="curve"/>
+      <point x="339" y="202"/>
+      <point x="423" y="96"/>
+      <point x="484" y="-1" type="curve"/>
+      <point x="487" y="-4"/>
+      <point x="490" y="-6"/>
+      <point x="493" y="-6" type="curve" smooth="yes"/>
+      <point x="500" y="-6"/>
+      <point x="504" y="2"/>
     </contour>
     <contour>
-      <point x="116.366" y="300.642" type="curve"/>
-      <point x="117.014" y="418.022"/>
-      <point x="114.526" y="531.545"/>
-      <point x="107.85" y="689.2" type="curve"/>
-      <point x="349.992" y="689.2"/>
-      <point x="485.9" y="624.904"/>
-      <point x="485.9" y="510.35" type="curve" smooth="yes"/>
-      <point x="485.9" y="388.208"/>
-      <point x="334.594" y="302.342"/>
+      <point x="116" y="301" type="curve"/>
+      <point x="117" y="418"/>
+      <point x="115" y="532"/>
+      <point x="108" y="689" type="curve"/>
+      <point x="350" y="689"/>
+      <point x="486" y="625"/>
+      <point x="486" y="510" type="curve" smooth="yes"/>
+      <point x="486" y="388"/>
+      <point x="335" y="302"/>
     </contour>
     <contour>
       <point x="275" y="0" type="move" name="bottom"/>

@@ -4,51 +4,54 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="98.95" y="4.75" type="curve" smooth="yes"/>
-      <point x="104.348" y="105.622"/>
-      <point x="106.077" y="212.293"/>
-      <point x="104.461" y="321.188" type="curve"/>
-      <point x="140.914" y="433.473"/>
-      <point x="206.644" y="492.75"/>
-      <point x="294.7" y="492.75" type="curve" smooth="yes"/>
-      <point x="409.357" y="492.75"/>
-      <point x="472.6" y="399.734"/>
-      <point x="472.6" y="231.1" type="curve" smooth="yes"/>
-      <point x="472.6" y="164.134"/>
-      <point x="466.039" y="79.5015"/>
-      <point x="454.35" y="6.5" type="curve" smooth="yes"/>
-      <point x="453.136" y="-1.082"/>
-      <point x="456.52" y="-7.02568"/>
-      <point x="462.051" y="-7.02568" type="curve" smooth="yes"/>
-      <point x="467.316" y="-7.02568"/>
-      <point x="471.573" y="-1.5016"/>
-      <point x="472.65" y="6.75001" type="curve" smooth="yes"/>
-      <point x="486.224" y="110.767"/>
-      <point x="491.4" y="170.856"/>
-      <point x="491.4" y="224.4" type="curve" smooth="yes"/>
-      <point x="491.4" y="409.671"/>
-      <point x="422.959" y="510.1"/>
-      <point x="296.7" y="510.1" type="curve" smooth="yes"/>
-      <point x="206.574" y="510.1"/>
-      <point x="139.729" y="460.747"/>
-      <point x="103.606" y="367.533" type="curve"/>
-      <point x="102.575" y="410.633"/>
-      <point x="101.021" y="453.35"/>
-      <point x="98.95" y="495.45" type="curve" smooth="yes"/>
-      <point x="98.6673" y="501.199"/>
-      <point x="95.1629" y="505.104"/>
-      <point x="90.2869" y="505.104" type="curve" smooth="yes"/>
-      <point x="84.5331" y="505.104"/>
-      <point x="80.5022" y="499.883"/>
-      <point x="80.9001" y="493" type="curve" smooth="yes"/>
-      <point x="88.6533" y="358.894"/>
-      <point x="88.2834" y="216.976"/>
-      <point x="81.0501" y="4.8" type="curve" smooth="yes"/>
-      <point x="80.8447" y="-1.2238"/>
-      <point x="84.6908" y="-5.79262"/>
-      <point x="89.9671" y="-5.79262" type="curve" smooth="yes"/>
-      <point x="95" y="-5.79262"/>
-      <point x="98.6131" y="-1.5521"/>
+      <point x="99" y="5" type="curve" smooth="yes"/>
+      <point x="104" y="106"/>
+      <point x="106" y="212"/>
+      <point x="105" y="321" type="curve"/>
+      <point x="141" y="434"/>
+      <point x="207" y="493"/>
+      <point x="295" y="493" type="curve" smooth="yes"/>
+      <point x="409" y="493"/>
+      <point x="473" y="400"/>
+      <point x="473" y="231" type="curve" smooth="yes"/>
+      <point x="473" y="164"/>
+      <point x="466" y="80"/>
+      <point x="454" y="7" type="curve" smooth="yes"/>
+      <point x="453" y="-1"/>
+      <point x="457" y="-7"/>
+      <point x="462" y="-7" type="curve" smooth="yes"/>
+      <point x="467" y="-7"/>
+      <point x="472" y="-2"/>
+      <point x="473" y="7" type="curve" smooth="yes"/>
+      <point x="486" y="111"/>
+      <point x="491" y="171"/>
+      <point x="491" y="224" type="curve" smooth="yes"/>
+      <point x="491" y="410"/>
+      <point x="423" y="510"/>
+      <point x="297" y="510" type="curve" smooth="yes"/>
+      <point x="207" y="510"/>
+      <point x="140" y="461"/>
+      <point x="104" y="368" type="curve"/>
+      <point x="103" y="411"/>
+      <point x="101" y="453"/>
+      <point x="99" y="496" type="curve" smooth="yes"/>
+      <point x="99" y="501"/>
+      <point x="95" y="505"/>
+      <point x="90" y="505" type="curve" smooth="yes"/>
+      <point x="85" y="505"/>
+      <point x="81" y="500"/>
+      <point x="81" y="493" type="curve" smooth="yes"/>
+      <point x="85" y="428"/>
+      <point x="87" y="362"/>
+      <point x="87" y="286" type="curve" smooth="yes"/>
+      <point x="87" y="205"/>
+      <point x="85" y="115"/>
+      <point x="81" y="5" type="curve" smooth="yes"/>
+      <point x="81" y="-1"/>
+      <point x="85" y="-6"/>
+      <point x="90" y="-6" type="curve" smooth="yes"/>
+      <point x="95" y="-6"/>
+      <point x="99" y="-2"/>
     </contour>
     <contour>
       <point x="284" y="0" type="move" name="bottom"/>
