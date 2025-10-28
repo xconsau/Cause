@@ -41,23 +41,17 @@
       <point x="85" y="505"/>
       <point x="81" y="500"/>
       <point x="81" y="493" type="curve" smooth="yes"/>
-      <point x="89" y="359"/>
-      <point x="88" y="217"/>
+      <point x="85" y="428"/>
+      <point x="87" y="362"/>
+      <point x="87" y="286" type="curve" smooth="yes"/>
+      <point x="87" y="205"/>
+      <point x="85" y="115"/>
       <point x="81" y="5" type="curve" smooth="yes"/>
       <point x="81" y="-1"/>
       <point x="85" y="-6"/>
       <point x="90" y="-6" type="curve" smooth="yes"/>
       <point x="95" y="-6"/>
       <point x="99" y="-2"/>
-    </contour>
-    <contour>
-      <point x="284" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="-30" y="700" type="move" name="right"/>
-    </contour>
-    <contour>
-      <point x="284" y="530" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

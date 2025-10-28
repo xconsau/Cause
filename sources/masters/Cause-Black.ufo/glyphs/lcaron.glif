@@ -18,23 +18,14 @@
       <point x="289" y="607"/>
       <point x="283" y="570"/>
       <point x="272" y="541" type="curve" smooth="yes"/>
-      <point x="253" y="495"/>
-      <point x="285" y="452"/>
+      <point x="268" y="532"/>
+      <point x="266" y="523"/>
+      <point x="266" y="514" type="curve" smooth="yes"/>
+      <point x="266" y="480"/>
+      <point x="295" y="452"/>
       <point x="337" y="452" type="curve" smooth="yes"/>
       <point x="363" y="452"/>
       <point x="387" y="465"/>
-    </contour>
-    <contour>
-      <point x="250" y="700" type="move" name="_right"/>
-    </contour>
-    <contour>
-      <point x="133" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="370" y="370" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="250" y="700" type="move" name="right"/>
     </contour>
   </outline>
 </glyph>

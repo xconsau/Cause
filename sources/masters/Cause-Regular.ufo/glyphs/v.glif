@@ -5,8 +5,11 @@
   <outline>
     <contour>
       <point x="497" y="450" type="curve" smooth="yes"/>
-      <point x="513" y="477"/>
-      <point x="499" y="506"/>
+      <point x="502" y="458"/>
+      <point x="504" y="466"/>
+      <point x="504" y="473" type="curve" smooth="yes"/>
+      <point x="504" y="491"/>
+      <point x="490" y="506"/>
       <point x="469" y="506" type="curve" smooth="yes"/>
       <point x="456" y="506"/>
       <point x="445" y="500"/>
@@ -20,8 +23,11 @@
       <point x="95" y="499"/>
       <point x="84" y="506"/>
       <point x="70" y="506" type="curve" smooth="yes"/>
-      <point x="42" y="506"/>
-      <point x="27" y="479"/>
+      <point x="49" y="506"/>
+      <point x="36" y="491"/>
+      <point x="36" y="473" type="curve" smooth="yes"/>
+      <point x="36" y="467"/>
+      <point x="37" y="460"/>
       <point x="41" y="453" type="curve" smooth="yes"/>
       <point x="106" y="329"/>
       <point x="173" y="159"/>

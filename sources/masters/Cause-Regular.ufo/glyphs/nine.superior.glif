@@ -26,8 +26,11 @@
       <point x="98" y="367"/>
       <point x="94" y="358"/>
       <point x="94" y="349" type="curve" smooth="yes"/>
-      <point x="94" y="324"/>
-      <point x="122" y="313"/>
+      <point x="94" y="332"/>
+      <point x="107" y="321"/>
+      <point x="123" y="321" type="curve" smooth="yes"/>
+      <point x="130" y="321"/>
+      <point x="138" y="323"/>
     </contour>
     <contour>
       <point x="149" y="647" type="curve" smooth="yes"/>

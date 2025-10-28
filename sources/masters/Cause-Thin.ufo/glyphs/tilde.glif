@@ -35,8 +35,5 @@
       <point x="317" y="831"/>
       <point x="343" y="846"/>
     </contour>
-    <contour>
-      <point x="224" y="730" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

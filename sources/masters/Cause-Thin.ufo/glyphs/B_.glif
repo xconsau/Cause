@@ -20,8 +20,11 @@
       <point x="99" y="700"/>
       <point x="90" y="690"/>
       <point x="90" y="680" type="curve" smooth="yes"/>
-      <point x="100" y="412"/>
-      <point x="99" y="210"/>
+      <point x="95" y="546"/>
+      <point x="97" y="429"/>
+      <point x="97" y="323" type="curve" smooth="yes"/>
+      <point x="97" y="217"/>
+      <point x="95" y="122"/>
       <point x="91" y="34" type="curve" smooth="yes"/>
       <point x="89" y="4"/>
       <point x="97" y="-5"/>

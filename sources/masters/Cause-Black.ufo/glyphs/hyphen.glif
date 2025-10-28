@@ -23,8 +23,5 @@
       <point x="215" y="190"/>
       <point x="276" y="192"/>
     </contour>
-    <contour>
-      <point x="255" y="255" type="move" name="_left"/>
-    </contour>
   </outline>
 </glyph>
