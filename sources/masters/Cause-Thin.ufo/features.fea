@@ -44,8 +44,8 @@ table OS/2 {
 
 table name {
 
-    nameid 0   "Copyright 2024 The Cause Project Authors (https://github.com/xconsau/cause)";
-    nameid 0 3 "Copyright 2024 The Cause Project Authors (https://github.com/xconsau/cause)";   
+    nameid 0   "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/cause)";
+    nameid 0 3 "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/cause)";   
 
     nameid 8   "Saurabh Sharma";
     nameid 8 3 "Saurabh Sharma";
@@ -2567,4 +2567,31 @@ feature kern {
 
   lookup KERN_LTR;
 } kern;
+
+# Define a class for soft-dotted glyphs
+@SOFT_DOTTED_GLYPHS = [ i j ];
+
+# Define a class for combining accents that cause the dot to drop
+@COMBINING_TOP_MARKS = [ acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb gravecomb ];
+
+# Apply these rules under the 'ccmp' feature
+feature ccmp {
+
+    # This lookup is a contextual substitution.
+    # It substitutes the soft-dotted glyph with its dotless version
+    # when it is followed by one of the combining marks.
+    lookup ccmp_soft_dotted {
+        # The 'UseMarkFilteringSet' flag ensures this substitution only runs
+        # when a mark from the specified class is present.
+        lookupflag UseMarkFilteringSet @COMBINING_TOP_MARKS;
+
+        # Contextual substitution rule:
+        # `sub` is the command for substitution.
+        # `[i j]` are the input soft-dotted glyphs.
+        # `'` indicates that the following substitution only applies to the preceding glyph.
+        # `@COMBINING_TOP_MARKS` is the contextual trigger.
+        # `by [idotless jdotless];` are the output dotless glyphs.
+        sub @SOFT_DOTTED_GLYPHS' @COMBINING_TOP_MARKS by [ dotlessi dotlessj ];
+    } ccmp_soft_dotted;
+} ccmp;
 
