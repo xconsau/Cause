@@ -2572,7 +2572,7 @@ feature kern {
 @SOFT_DOTTED_GLYPHS = [ i j ];
 
 # Define a class for combining accents that cause the dot to drop
-@COMBINING_TOP_MARKS = [ acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb gravecomb ];
+@Mark = [ gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb uni0326 cedillacomb ogonekcomb ];
 
 # Apply these rules under the 'ccmp' feature
 feature ccmp {
@@ -2591,7 +2591,11 @@ feature ccmp {
         # `'` indicates that the following substitution only applies to the preceding glyph.
         # `@COMBINING_TOP_MARKS` is the contextual trigger.
         # `by [idotless jdotless];` are the output dotless glyphs.
-        sub @SOFT_DOTTED_GLYPHS' @COMBINING_TOP_MARKS by [ dotlessi dotlessj ];
+        sub @SOFT_DOTTED_GLYPHS' @Mark by [ dotlessi dotlessj ];
     } ccmp_soft_dotted;
 } ccmp;
 
+
+table GDEF {
+  GlyphClassDef @Base, @Ligature, @Mark, @Component;
+} GDEF;
