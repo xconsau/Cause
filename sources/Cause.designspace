@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" default="400" maximum="900" name="weight" tag="wght">
+  <axis minimum="100" name="weight" tag="wght" default="400" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="100" input="100"/>
-   <map output="400" input="400"/>
-   <map output="900" input="900"/>
+   <map input="100" output="100"/>
+   <map input="400" output="400"/>
+   <map input="900" output="900"/>
   </axis>
  </axes>
  <sources>
-  <source familyname="Cause" name="Black" stylename="Black" filename="masters/Cause-Black.ufo">
+  <source name="Black" filename="masters/Cause-Black.ufo" stylename="Black" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>
   </source>
-  <source familyname="Cause" name="Regular" stylename="Regular" filename="masters/Cause-Regular.ufo">
+  <source name="Regular" filename="masters/Cause-Regular.ufo" stylename="Regular" familyname="Cause">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -23,54 +23,54 @@
     <dimension name="weight" xvalue="400"/>
    </location>
   </source>
-  <source familyname="Cause" name="Thin" stylename="Thin" filename="masters/Cause-Thin.ufo">
+  <source name="Thin" filename="masters/Cause-Thin.ufo" stylename="Thin" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </source>
  </sources>
  <instances>
-  <instance familyname="Cause" name="Thin" stylename="Thin" filename="instances/Cause-Thin.ufo">
+  <instance name="Thin" filename="instances/Cause-Thin.ufo" stylename="Thin" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="100"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="ExtraLight" stylename="ExtraLight" filename="instances/Cause-ExtraLight.ufo">
+  <instance name="ExtraLight" filename="instances/Cause-ExtraLight.ufo" stylename="ExtraLight" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="200"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="Light" stylename="Light" filename="instances/Cause-Light.ufo">
+  <instance name="Light" filename="instances/Cause-Light.ufo" stylename="Light" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="300"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="Regular" stylename="Regular" filename="instances/Cause-Regular.ufo">
+  <instance name="Regular" filename="instances/Cause-Regular.ufo" stylename="Regular" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="Medium" stylename="Medium" filename="instances/Cause-Medium.ufo">
+  <instance name="Medium" filename="instances/Cause-Medium.ufo" stylename="Medium" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="SemiBold" stylename="SemiBold" filename="instances/Cause-SemiBold.ufo">
+  <instance name="SemiBold" filename="instances/Cause-SemiBold.ufo" stylename="SemiBold" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="Bold" stylename="Bold" filename="instances/Cause-Bold.ufo">
+  <instance name="Bold" filename="instances/Cause-Bold.ufo" stylename="Bold" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="ExtraBold" stylename="ExtraBold" filename="instances/Cause-ExtraBold.ufo">
+  <instance name="ExtraBold" filename="instances/Cause-ExtraBold.ufo" stylename="ExtraBold" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="800"/>
    </location>
   </instance>
-  <instance familyname="Cause" name="Black" stylename="Black" filename="instances/Cause-Black.ufo">
+  <instance name="Black" filename="instances/Cause-Black.ufo" stylename="Black" familyname="Cause">
    <location>
     <dimension name="weight" xvalue="900"/>
    </location>

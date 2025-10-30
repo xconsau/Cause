@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2021 Saurabh Sharma</string>
+  <string>Copyright 2025 The Cause Project Authors (github.com/xconsau/cause)</string>
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
@@ -31,6 +31,8 @@
   <string>Saurabh Sharma</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://intothedesign.com</string>
+  <key>openTypeNameLicense</key>
+  <string>OFL</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Cause</string>
   <key>openTypeNamePreferredSubfamilyName</key>

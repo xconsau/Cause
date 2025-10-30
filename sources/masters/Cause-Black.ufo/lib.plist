@@ -494,6 +494,11 @@
     <string>agrave</string>
     <string>ugrave</string>
     <string>Lcaron</string>
+    <string>caroncomb.alt</string>
+    <string>eng</string>
+    <string>Eng</string>
+    <string>lineseparator</string>
+    <string>paragraphseparator</string>
   </array>
 </dict>
 </plist>

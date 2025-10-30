@@ -64,6 +64,8 @@
   <string>E_grave.glif</string>
   <key>Emacron</key>
   <string>E_macron.glif</string>
+  <key>Eng</key>
+  <string>E_ng.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
   <key>Eth</key>
@@ -324,6 +326,8 @@
   <string>caron.glif</string>
   <key>caroncomb</key>
   <string>caroncomb.glif</string>
+  <key>caroncomb.alt</key>
+  <string>caroncomb.alt.glif</string>
   <key>ccaron</key>
   <string>ccaron.glif</string>
   <key>ccedilla</key>
@@ -408,6 +412,8 @@
   <string>emdash.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
+  <key>eng</key>
+  <string>eng.glif</string>
   <key>eogonek</key>
   <string>eogonek.glif</string>
   <key>equal</key>
@@ -536,6 +542,8 @@
   <string>less.glif</string>
   <key>lessequal</key>
   <string>lessequal.glif</string>
+  <key>lineseparator</key>
+  <string>lineseparator.glif</string>
   <key>logicalnot</key>
   <string>logicalnot.glif</string>
   <key>longs</key>
@@ -622,6 +630,8 @@
   <string>p.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
+  <key>paragraphseparator</key>
+  <string>paragraphseparator.glif</string>
   <key>parenleft</key>
   <string>parenleft.glif</string>
   <key>parenright</key>

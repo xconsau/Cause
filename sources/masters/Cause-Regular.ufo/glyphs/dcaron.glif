@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="783"/>
+  <advance width="723"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <contour>
-      <point x="639.703" y="511.025" type="curve" smooth="yes"/>
-      <point x="663.91" y="563.265"/>
-      <point x="672.439" y="614.87"/>
-      <point x="667.461" y="678.986" type="curve" smooth="yes"/>
-      <point x="666.024" y="697.507"/>
-      <point x="651.889" y="710.318"/>
-      <point x="632.894" y="710.318" type="curve" smooth="yes"/>
-      <point x="610.179" y="710.318"/>
-      <point x="595.583" y="692.765"/>
-      <point x="599.069" y="669.638" type="curve" smooth="yes"/>
-      <point x="605.876" y="624.479"/>
-      <point x="599.507" y="580.002"/>
-      <point x="578.698" y="527.388" type="curve" smooth="yes"/>
-      <point x="570.342" y="506.261"/>
-      <point x="583.451" y="486.097"/>
-      <point x="605.541" y="486.097" type="curve" smooth="yes"/>
-      <point x="619.778" y="486.097"/>
-      <point x="632.43" y="495.329"/>
-    </contour>
+    <component base="caroncomb.alt" xOffset="520" yOffset="20"/>
   </outline>
 </glyph>
