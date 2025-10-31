@@ -499,6 +499,7 @@
     <string>Eng</string>
     <string>lineseparator</string>
     <string>paragraphseparator</string>
+    <string>circledotted</string>
   </array>
 </dict>
 </plist>

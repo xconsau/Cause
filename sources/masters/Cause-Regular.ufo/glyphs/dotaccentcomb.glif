@@ -2,7 +2,7 @@
 <glyph name="dotaccentcomb" format="1">
   <unicode hex="0307"/>
   <outline>
-    <component base="dotaccent"/>
+    <component base="dotaccent" xOffset="10"/>
   </outline>
   <lib>
   <dict>

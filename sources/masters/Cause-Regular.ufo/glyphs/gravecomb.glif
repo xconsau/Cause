@@ -2,7 +2,7 @@
 <glyph name="gravecomb" format="1">
   <unicode hex="0300"/>
   <outline>
-    <component base="grave"/>
+    <component base="grave" xOffset="11"/>
   </outline>
   <lib>
   <dict>

@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb" format="1">
   <unicode hex="0302"/>
   <outline>
-    <component base="circumflex"/>
+    <component base="circumflex" xOffset="10"/>
   </outline>
   <lib>
   <dict>

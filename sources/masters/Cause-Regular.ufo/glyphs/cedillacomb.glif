@@ -2,7 +2,7 @@
 <glyph name="cedillacomb" format="1">
   <unicode hex="0327"/>
   <outline>
-    <component base="cedilla"/>
+    <component base="cedilla" xOffset="10"/>
   </outline>
   <lib>
   <dict>

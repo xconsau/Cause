@@ -4,6 +4,6 @@
   <unicode hex="0163"/>
   <outline>
     <component base="t"/>
-    <component base="cedilla" xOffset="81.1698" yOffset="5.33804"/>
+    <component base="cedilla" xOffset="91.1698" yOffset="5.33804"/>
   </outline>
 </glyph>
