@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb.alt" format="1">
-  <advance width="244"/>
   <outline>
     <contour>
       <point x="175.915" y="486.829" type="curve" smooth="yes"/>
