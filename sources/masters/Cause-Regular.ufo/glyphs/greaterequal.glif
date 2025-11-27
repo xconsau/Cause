@@ -3,7 +3,7 @@
   <advance width="514"/>
   <unicode hex="2265"/>
   <outline>
-    <component base="less" xScale="-1" xOffset="474.692"/>
+    <component base="less" xScale="-1" xOffset="514" yOffset="2.84217e-14"/>
     <contour>
       <point x="397.212" y="-82.4584" type="curve" smooth="yes"/>
       <point x="419.072" y="-84.1634"/>
