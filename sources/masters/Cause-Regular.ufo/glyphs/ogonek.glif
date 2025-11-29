@@ -16,13 +16,13 @@
       <point x="119.482" y="-80.3329" type="curve" smooth="yes"/>
       <point x="119.482" y="-47.5127"/>
       <point x="139.778" y="-10.2167"/>
-      <point x="179.821" y="18.9995" type="curve"/>
-      <point x="148.204" y="18.8039" type="line"/>
-      <point x="88.786" y="-6.57404"/>
-      <point x="62.9146" y="-56.5903"/>
-      <point x="62.9146" y="-103.013" type="curve" smooth="yes"/>
+      <point x="179.821" y="19" type="curve"/>
+      <point x="148.204" y="18.8044" type="line"/>
+      <point x="88.786" y="-6.57356"/>
+      <point x="62.9146" y="-56.5898"/>
+      <point x="62.9146" y="-103.012" type="curve" smooth="yes"/>
       <point x="62.9146" y="-156.925"/>
-      <point x="97.8072" y="-205.991"/>
+      <point x="97.8072" y="-205.99"/>
     </contour>
   </outline>
   <lib>
