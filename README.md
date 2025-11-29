@@ -18,6 +18,19 @@
 [OpenType Specification]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FOpenTypeSpecificationChecks.json
 [Repository]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FRepositoryChecks.json
 
+[![][Fontspector]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+[![][OpenType]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+[![][Universal]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+[![][Google Fonts]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+[![][Glyphset]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+
+[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FFontspectorQA.json
+[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FOpentypeSpecificationChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FUniversalProfileChecks.json
+[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FFontFileChecks.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FOutlineCorrectnessChecks.json
+[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FGlyphsetChecks.json
+
 A semi-casual and optimistic sans-serif typeface, designed specifically for use in non-profit organizations, educational institutions, environmental campaigns and learning applications.
 
 The font's design is mono-linear with rounded ends. The font is a result of the requirement where one needs a semi casual font (while not being too comic) – to be able to convey a serious message but in a friendly and comfortable way. Such a requirement is often seen in design works related to education, non-profit, food blogs, environmental campaigns and children collaterals, to list some.
