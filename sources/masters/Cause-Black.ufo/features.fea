@@ -2570,6 +2570,7 @@ feature kern {
 
 
 feature mark {
+#> feature
 # GPOS feature : Mark Positioning
     markClass acutecomb <anchor 80 720> @top;
 
@@ -2582,10 +2583,14 @@ feature mark {
           <anchor 112 520> mark @top;
       pos base dotlessj
           <anchor 112 520> mark @top;
+      pos base circledotted
+          <anchor 297 520> mark @top;
   } markLTR;
 
   lookup markLTR;
+#< feature
 } mark;
+
 
 
 # Define a class for soft-dotted glyphs
