@@ -2,22 +2,6 @@
 
 # Cause (Variable)
 
-[![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][OpenType Specification]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Repository]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2Foverall.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FFontFileChecks.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FOutlineChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[OpenType Specification]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FOpenTypeSpecificationChecks.json
-[Repository]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FRepositoryChecks.json
-
 [![][Fontspector]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
 [![][OpenType]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
 [![][Universal]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
