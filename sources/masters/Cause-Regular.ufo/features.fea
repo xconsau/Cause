@@ -2568,6 +2568,26 @@ feature kern {
   lookup KERN_LTR;
 } kern;
 
+
+feature mark {
+# GPOS feature : Mark Positioning
+    markClass acutecomb <anchor 80 720> @top;
+
+  lookup markLTR {
+      pos base I
+          <anchor 187 720> mark @top;
+      pos base J
+          <anchor 243 720> mark @top;
+      pos base dotlessi
+          <anchor 112 520> mark @top;
+      pos base dotlessj
+          <anchor 112 520> mark @top;
+  } markLTR;
+
+  lookup markLTR;
+} mark;
+
+
 # Define a class for soft-dotted glyphs
 @SOFT_DOTTED_GLYPHS = [ i j ];
 
