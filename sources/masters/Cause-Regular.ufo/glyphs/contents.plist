@@ -518,6 +518,8 @@
   <string>integral.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
+  <key>iogonek.dotless</key>
+  <string>iogonek.dotless.glif</string>
   <key>itilde</key>
   <string>itilde.glif</string>
   <key>j</key>

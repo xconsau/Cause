@@ -500,6 +500,7 @@
     <string>lineseparator</string>
     <string>paragraphseparator</string>
     <string>circledotted</string>
+    <string>iogonek.dotless</string>
   </array>
 </dict>
 </plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.dotless" format="1">
+  <advance width="284"/>
+  <outline>
+    <component base="ogonek" xOffset="13.532"/>
+    <contour>
+      <point x="223.816" y="72.8668" type="curve" smooth="yes"/>
+      <point x="208.34" y="197.104"/>
+      <point x="206.965" y="313.647"/>
+      <point x="219.551" y="434.455" type="curve" smooth="yes"/>
+      <point x="223.77" y="474.959"/>
+      <point x="188.87" y="506.495"/>
+      <point x="139.825" y="506.495" type="curve" smooth="yes"/>
+      <point x="97.2487" y="506.495"/>
+      <point x="65.8236" y="481.759"/>
+      <point x="60.6964" y="444.21" type="curve" smooth="yes"/>
+      <point x="45.9441" y="336.171"/>
+      <point x="48.1858" y="173.666"/>
+      <point x="66.0904" y="53.1869" type="curve" smooth="yes"/>
+      <point x="71.4512" y="17.1141"/>
+      <point x="101.412" y="-6.37812"/>
+      <point x="142.055" y="-6.37812" type="curve" smooth="yes"/>
+      <point x="193.162" y="-6.37812"/>
+      <point x="229.322" y="28.669"/>
+    </contour>
+    <contour>
+      <point x="132" y="520" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>506</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-6</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
