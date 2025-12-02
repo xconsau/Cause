@@ -2,29 +2,33 @@
 
 # Cause (Variable)
 
-[![][Fontspector]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
-[![][OpenType]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
-[![][Universal]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
-[![][Google Fonts]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
-[![][Glyphset]](https://xconsau.github.io/Cause/fontspector/fontspector-report.html)
+[![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][OpenType Specification]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+[![][Repository]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 
-[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FFontspectorQA.json
-[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FOpentypeSpecificationChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FUniversalProfileChecks.json
-[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FFontFileChecks.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FOutlineCorrectnessChecks.json
-[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fxconsau.github.io%2FCause%2Fbadges%2FGlyphsetChecks.json
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2Foverall.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FUniversalProfileChecks.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FFontFileChecks.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FOutlineChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[OpenType Specification]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FOpenTypeSpecificationChecks.json
+[Repository]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxconsau%2Fcause%2Fgh-pages%2Fbadges%2FRepositoryChecks.json
 
-A semi-casual and optimistic sans-serif typeface, designed specifically for use in non-profit organizations, educational institutions, environmental campaigns and learning applications.
+'Cause' is a semi-casual, optimistic sans-serif typeface crafted to support the communication needs of non-profit organizations, educational institutions, environmental initiatives, and learning-focused applications.
 
-The font's design is mono-linear with rounded ends. The font is a result of the requirement where one needs a semi casual font (while not being too comic) – to be able to convey a serious message but in a friendly and comfortable way. Such a requirement is often seen in design works related to education, non-profit, food blogs, environmental campaigns and children collaterals, to list some.
+The design follows a clean monolinear construction with gently rounded terminals, offering a balance of warmth and clarity. It was created to address a recurring design need: a typeface that feels friendly and approachable without drifting into a comic or overly playful tone&mdash;capable of delivering serious messages with comfort and ease. This makes it particularly suitable for projects in education, social impact, food and lifestyle blogging, environmental advocacy, and various forms of children&rsquo;s communication materials.
 
-![Sample Image](documentation/c1.png)
-![Sample Image](documentation/c2.png)
-![Sample Image](documentation/c3.png)
-![Sample Image](documentation/c4.png)
-![Sample Image](documentation/c5.png)
-![Sample Image](documentation/c6.jpg)
+
+![Sample Image](documentation/article/c1.png)
+![Sample Image](documentation/article/c2.png)
+![Sample Image](documentation/article/c3.png)
+![Sample Image](documentation/article/c4.png)
+![Sample Image](documentation/article/c5.png)
+![Sample Image](documentation/article/c6.jpg)
 
 ## Building
 
