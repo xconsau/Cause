@@ -44,8 +44,8 @@ table OS/2 {
 
 table name {
 
-    nameid 0   "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/cause)";
-    nameid 0 3 "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/cause)";   
+    nameid 0   "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/Cause)";
+    nameid 0 3 "Copyright 2025 The Cause Project Authors (https://github.com/xconsau/Cause)";   
 
     nameid 8   "Saurabh Sharma";
     nameid 8 3 "Saurabh Sharma";
